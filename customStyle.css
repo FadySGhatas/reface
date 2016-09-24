@@ -1,0 +1,13 @@
+#navHome{
+    display:none !important;
+}
+ 
+.tickerActivityStories{
+    display:none;
+}
+[id^='topnews_main_stream']{
+    display:none;
+}
+.ego_column.pagelet{
+    display:none;
+}
